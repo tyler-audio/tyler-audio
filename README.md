@@ -4,8 +4,8 @@ I am a full stack software developer and audio engineer currently residing in Te
 
 If you have any questions or would simply like to connect, don't hesitate to reach out!
 
-- 🔭 I’m currently looking for work as a Software Engineer || Web Developer
-- 🌱 I’m currently learning TypeScript, Next.js & GraphQL
+<!-- - 🔭 I’m currently looking for work as a Software Engineer || Web Developer
+- 🌱 I’m currently learning TypeScript, Next.js & GraphQL -->
 
 
 <!--
